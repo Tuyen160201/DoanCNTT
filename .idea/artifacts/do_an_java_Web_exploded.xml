@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="do-an-java:Web exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/do_an_java_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="do-an-java/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="do-an-java" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="sqljdbc42.jar" module-name="do-an-java" />
+          <element id="library" level="module" name="jstl-1.1.2.jar" module-name="do-an-java" />
+          <element id="library" level="module" name="standard-1.1.2.jar" module-name="do-an-java" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
