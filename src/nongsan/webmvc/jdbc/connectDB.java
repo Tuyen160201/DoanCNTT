@@ -15,7 +15,7 @@ public class connectDB {
 			Class.forName("com.mysql.jdbc.Driver");
 			String url = ("jdbc:mysql://localhost:3306/vegetables");
 			String user = ("root");
-			String password = ("khanhlinh321");
+			String password = ("123456789");
 			System.out.println("Kết nối thành công!");
 			return DriverManager.getConnection(url, user, password);
 		} catch (ClassNotFoundException | SQLException e) {

@@ -20,9 +20,10 @@
               <div class="col-md-5 no-padding">                
                 <div class="aa-promo-left">
                   <div class="aa-promo-banner">                    
-                    <img src="${url}/images/dau.png" alt="dâu tây Đà Lạt">
+                    <img src="${url}/images/dautay.png" alt="dâu tây Đà Lạt">
                     <div class="aa-prom-content">
                       <span>Giảm giá 35%</span>
+                        <h4>Dâu tây Đà Lạt</h4>
                     </div>
                   </div>
                 </div>
@@ -32,33 +33,37 @@
                 <div class="aa-promo-right">
                   <div class="aa-single-promo-right">
                     <div class="aa-promo-banner">                      
-                      <img src="${url}/images/pepper.png" alt="hạt tiêu daklak">
+                      <img src="${url}/images/hattieu.png" alt="hạt tiêu daklak">
                       <div class="aa-prom-content">
                         <span>Sản Phẩm độc quyền</span>
+                          <h4>Hạt tiêu DakLak</h4>
                       </div>
                     </div>
                   </div>
                   <div class="aa-single-promo-right">
                     <div class="aa-promo-banner">                      
-                      <img src="${url}/images/cherry.png" alt="img">
+                      <img src="${url}/images/traicherry.png" alt="img">
                       <div class="aa-prom-content">
                         <span>Sản phẩm nhập khẩu</span>
+                          <h4>Cherry Mỹ</h4>
                       </div>
                     </div>
                   </div>
                   <div class="aa-single-promo-right">
                     <div class="aa-promo-banner">                      
-                      <img src="${url}/images/oil.png" alt="img">
+                      <img src="${url}/images/tinhdau.png" alt="img">
                       <div class="aa-prom-content">
                         <span>Giảm giá 25%</span>
+                          <h4>Tinh Dầu Lavender</h4>
                       </div>
                     </div>
                   </div>
                   <div class="aa-single-promo-right">
                     <div class="aa-promo-banner">                      
-                      <img src="${url}/images/honey1.png" alt="img">
+                      <img src="${url}/images/matong.png" alt="img">
                       <div class="aa-prom-content">
                         <span>Sản phẩm độc quyền</span>
+                          <h4>Mật ong Tây Bắc</h4>
                       </div>
                     </div>
                   </div>
@@ -95,10 +100,17 @@
                          <c:forEach items="${product_raucu}" var="product" end="7">
                         <li>
                           <figure>
-                            <a class="aa-product-img" href="${pageContext.request.contextPath}/view/client/product-detail?id=${product.id}"><img src="${pageContext.request.contextPath}/view/client/assets/images/products/img-test/${product.image_link}" alt="polo shirt img"></a>
-                            <a class="aa-add-card-btn"href="${pageContext.request.contextPath}/view/client/add-cart?product-id=${product.id}"><span class="fa fa-shopping-cart"></span>Thêm vào giỏ hàng</a>
+                            <a class="aa-product-img"
+                               href="${pageContext.request.contextPath}/view/client/product-detail?id=${product.id}"><img
+                                    src="${pageContext.request.contextPath}/view/client/assets/images/products/img-test/${product.image_link}"
+                                    alt="polo shirt img"></a>
+                            <a class="aa-add-card-btn"
+                               href="${pageContext.request.contextPath}/view/client/add-cart?product-id=${product.id}"><span
+                                    class="fa fa-shopping-cart"></span>Thêm vào giỏ hàng</a>
                               <figcaption>
-                              <h4 class="aa-product-title"><a href="${pageContext.request.contextPath}/view/client/product-detail?id=${product.id}">${product.name }</a></h4>
+                              <h4 class="aa-product-title"><a
+                                      href="${pageContext.request.contextPath}/view/client/product-detail?id=${product.id}">${product.name }</a>
+                              </h4>
                              
 						<c:choose>
 						<c:when test="${product.discount == 0}">
@@ -505,7 +517,43 @@
     </div>
   </section>
   <!-- / Testimonial -->
+<!-- Latest Blog -->
+<section id="aa-latest-blog">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="aa-latest-blog-area">
+                    <h2>TIN TỨC</h2>
+                    <div class="row">
+                        <!-- single latest blog -->
+                        <c:forEach items="${boardnewlist}" var="boardnew" end="2">
+                            <div class="col-md-4 col-sm-4">
+                                <div class="aa-latest-blog-single">
+                                    <figure class="aa-blog-img">
+                                        <a href="${pageContext.request.contextPath}/view/client/news-list-detail?id=${boardnew.id}"><img src="${pageContext.request.contextPath}/view/client/assets/images/news/${boardnew.image_link}" alt="Tin tức ${boardnew.title}"></a>
+                                        <figcaption class="aa-blog-img-caption">
+                                            <span href="#"><i class="fa fa-clock-o"></i>${boardnew.created}</span>
+                                        </figcaption>
+                                    </figure>
+                                    <div class="aa-blog-info">
+                                        <h3 class="aa-blog-title"><a href="${pageContext.request.contextPath}/view/client/news-list-detail?id=${boardnew.id}">${boardnew.title}</a></h3>
+                                        <p class="desc-boardnews">${boardnew.content}</p>
+                                        <a href="${pageContext.request.contextPath}/view/client/news-list-detail?id=${boardnew.id}" class="aa-read-mor-btn">Xem thêm<span class="fa fa-long-arrow-right"></span></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </c:forEach>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- / Latest Blog -->
 
+<!-- Client Brand -->
+
+<!-- / Client Brand -->
 <!--  footer-->
  <jsp:include page = "./footer/footer.jsp" flush = "true" />
 <!-- end footer-->

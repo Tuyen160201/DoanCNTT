@@ -28,10 +28,8 @@
 	                  <label for="input-4">Người đăng</label>
                   <div>
                     <select class="form-control valid" id="input-4" name="new-author" required aria-invalid="false">
-                        <option>Thịnh Dương</option>
-                        <option>Lê Thạch</option>
-                        <option>Lan Ngọc</option>
-                        <option>Kim Vy</option>
+                        <option>Thanh Tuyền</option>
+                        <option>Khánh Linh</option>
                     </select>
                   </div>
                   </div>
