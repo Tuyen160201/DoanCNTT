@@ -46,9 +46,9 @@
                <div class="col-md-5">
                  <div class="aa-contact-address-right">
                    <address>
-                     <h4>Nông Sản 24</h4>
+                     <h4>TULI Shop</h4>
                      <p>Liên hệ cho chúng tôi bất cứ khi nào bạn cần.</p>
-                     <p><span class="fa fa-home"></span>Số 1, Võ Văn Ngân, TP. Thủ Đức, TP.HCM</p>
+                     <p><span class="fa fa-home"></span>01 Võ Văn Ngân - TP.Thủ Đức - TP.HCM</p>
                      <p><span class="fa fa-phone"></span>0865.765.201</p>
                      <p><span class="fa fa-envelope"></span>Email: aquariustt01@gmail.com</p>
                    </address>

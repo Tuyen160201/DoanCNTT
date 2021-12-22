@@ -32,20 +32,20 @@
       		nhất trong từng sản phẩm khác biệt từ thiên nhiên.</p>
       		<img src="${url}/images/introduce_thuc_pham_sach.png" alt="Thực phẩm sạch"/> <br/> <br>
       		<p>Với triết lý trong kinh doanh là tuân thủ và đảm bảo được chất lượng tươi ngon nhất, nguồn gốc xuất xứ về sản phẩm rõ ràng.Chúng tôi cam kết không sử dụng
-      		chất bảo quản nào bị Bộ Y Tế cấm không được sử dụng và cam kết với quý khách hàng về toàn bộ những sản phẩm được phân phối qua hệ thống phân phối  <strong>Nông Sản 24h </strong>
+      		chất bảo quản nào bị Bộ Y Tế cấm không được sử dụng và cam kết với quý khách hàng về toàn bộ những sản phẩm được phân phối qua hệ thống phân phối  <strong>Rau Củ Quả TuLi </strong>
       		đảm bảo an toàn nhất.</p>
       		<p>Với cam kết chỉ phân phối những hàng hóa được cung cấp từ những nhà sản xuất có uy tín và đã được cơ quan y tế có thẩm quyền cấp chứng nhận và
       		đảm bảo vệ sinh an toàn thực phẩm có đủ quyền cung cấp thực phẩm sạch, các loại nông sản là các đặc sản từ mọi miền trên toàn quốc, các thực phẩm sử dụng hàng ngày
       		như các thực phẩm được đóng gói, thực phẩm được chế biến sẵn, rau củ quả, các loại gạo vùng miền và các loại phụ gia về thực phẩm như các loại gia vị dùng trong việc chế biến món ăn hàng ngày,...</p>
       		<img src="${url}/images/fruit.png" alt="Thực phẩm sạch" width= "1160" height= "600"/> <br/> <br>
-      		<strong>Dưới đây, chúng tôi xin điểm qua những mặt hàng của Nông Sản 24h hiện đang được rất nhiều khách hàng tin dùng và ưa chuộng:</strong><br/>
+      		<strong>Dưới đây, chúng tôi xin điểm qua những mặt hàng của Rau Củ Quả TuLi hiện đang được rất nhiều khách hàng tin dùng và ưa chuộng:</strong><br/>
       		<p> <strong>Rau củ sạch Đà Lạt, an toàn có nguồn gốc rõ ràng: </strong>
-			Với những loại rau củ là những loại đặc sản tại các vùng miền <strong>Nông Sản 24h</strong> là địa chỉ uy tín cung cấp cho bạn các loại sản phẩm chất lượng từ các loại  
+			Với những loại rau củ là những loại đặc sản tại các vùng miền <strong>Rau Củ Quả TuLi</strong> là địa chỉ uy tín cung cấp cho bạn các loại sản phẩm chất lượng từ các loại
 			rau củ sạch Đà Lạt được nhiều người dân ủng hộ trong suốt khoảng thời gian qua.Hệ thống vận hành của chúng tôi được thực hiện theo dây chuyền đảm bảo rằng 
 			các bạn sẽ nhận được thực phẩm tươi nhất với thời gian vận chuyển ngắn nhất đáp ứng được độ tươi ngon đảm bảo vệ sinh, an toàn và ngon miệng.</p>
       		<p> <strong>Hoa quả sạch, xuất xứ rõ ràng: </strong>
       		Với mục tiêu trở thành một thương hiệu được khách hàng tin tưởng và coi như một địa chỉ mua sắm tin cậy đối với các loại trái cây nhập khẩu và trái cây Việt Nam 
-      		có chất lượng cao cho gia đình, <strong>Nông sản 24h</strong> đang trở nên hoàn thiện hơn để đem đến cho khách hàng không chỉ những sản phẩm Trái cây nhập khẩu,
+      		có chất lượng cao cho gia đình, <strong>Rau Củ Quả TuLi</strong> đang trở nên hoàn thiện hơn để đem đến cho khách hàng không chỉ những sản phẩm Trái cây nhập khẩu,
       		trái cây Việt Nam chất lượng hàng đầu trên thị trường mà kèm theo đó là những dịch vụ tiện ích thân thiện khác.
       		</p>
       		<p> <strong>Rất nhiều các loại hạt, chứa nhiều dinh dưỡng với giá cả hợp lý: </strong>
