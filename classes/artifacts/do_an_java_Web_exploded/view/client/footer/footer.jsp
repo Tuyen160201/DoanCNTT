@@ -13,7 +13,7 @@
             <div class="row">
               <div class="col-md-4 col-sm-6">
                 <div class="aa-footer-widget">
-                  <a href="${pageContext.request.contextPath}/"><img src="${url}/images/logo-icon.png" alt="logo img" width="70px" style="margin-left: 120px"></a>
+                  <a href="${pageContext.request.contextPath}/"><img src="${url}/images/logo-icon.png" alt="logo img" width="50px" style="margin-left: 120px"></a>
                   <ul class="aa-footer-nav">
 
                     <li><p style="color:#888; text-align: justify; width: 95%">Là nơi chuyên buôn bán tất cả các mặt hàng về nông sản chất lượng. Chúng tôi luôn đặt tiêu chí về chất lượng và uy tín lên hàng đầu.</p></li>

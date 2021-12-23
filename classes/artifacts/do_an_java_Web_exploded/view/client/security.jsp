@@ -60,6 +60,7 @@
 			ngân hàng và bản tin mà bạn đặt theo dõi dài hạn. Quý khách cam kết bảo mật dữ liệu cá nhân và không được phép tiết lộ cho bên thứ ba. Chúng tôi không chịu bất kỳ trách 
 			nhiệm nào cho việc dùng sai mật khẩu nếu đây không phải lỗi của chúng tôi.
       		</p>
+			<br>
       		<strong>Điều lệ khác về thông tin cá nhân</strong>
 			<br>
 			<br>
